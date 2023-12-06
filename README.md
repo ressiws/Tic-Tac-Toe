@@ -10,7 +10,7 @@ This repository contains a command-line implementation of the classic Tic Tac To
 
 - Install the latest version of [Visual Studio](https://developer.microsoft.com/en-us/windows/downloads) (the free community edition is sufficient).
     - Install the optional "C++ Universal Windows Platform tools" component.
-    - install the latest Windows SDK.
+    - install the latest Windows (10/11) SDK.
 
 ## 🔧 Features
 
