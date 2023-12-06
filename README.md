@@ -34,6 +34,11 @@ This repository contains a command-line implementation of the classic Tic Tac To
 
 - `tictactoe.h` and `tictactoe.cpp` Contains the implementation of the Tic Tac Toe game logic, including the board, player moves, AI moves using the minimax algorithm, win/loss checks, restart functionality, and console-based UI.
 
+## 📚 To-Do list
+- [ ] **Implement UI:** Develop a user interface to enhance the game's visual experience.
+- [ ] **Add Difficulty Levels:** Introduce options for players to choose the AI's intelligence level (e.g., Easy, Medium, Hard).
+- [ ] **Add Linux Support:** Ensure compatibility and functionality for the game on linux systems.
+
 ## 💭 Contribution
 
 Contributions to enhance the game functionalities, improve the user interface, optimize algorithms, or any other enhancements are highly encouraged! Feel free to fork the repository, implement your changes, and submit a pull request.
