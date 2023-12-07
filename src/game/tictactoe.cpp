@@ -144,11 +144,11 @@ int tic_tac_toe::minimax( char board[3][3], bool is_maximizing )
 {
 	if ( check_winner( ) && !is_maximizing ) 
 	{
-		return 10; 
+		return 10; // player wins
 	}
 	else if ( check_winner( ) && is_maximizing ) 
 	{
-		return -10; 
+		return -10; // A.I wins
 	}
 	else if ( board_full( ) ) 
 	{
