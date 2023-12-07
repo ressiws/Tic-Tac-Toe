@@ -26,8 +26,12 @@ This repository contains a command-line implementation of the classic Tic Tac To
     ```
 - Open [Tic-Tac-Toe.sln](/Tic-Tac-Toe.sln) in Visual Studio to build and run the Tic-Tac-Toe game.
 
+#
+
 > [!NOTE]
 > Should any zero-day issue arise during the usage of this product, we recommend the user currently experiencing said issue to open an issue in the github repository of this product in order to get further assistance.
+
+#
 
 ## 📢 Code Structure
 
